@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/86252346/172023000-aff0decb-690d-4013-
 
 ------------
 
-This project was created based on the "FlexBox Dio" project from [karensantos](https://gitlab.com/karensantos).
+This project was created based on the "FlexBox Dio" from [karensantos](https://gitlab.com/karensantos).
