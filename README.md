@@ -11,7 +11,6 @@ https://user-images.githubusercontent.com/86252346/172023000-aff0decb-690d-4013-
 <ul>
     <li>HTML</li>
     <li>CSS FlexBox</li>
-    <li>VS Code IDE</li>
 </ul>
 
 ------------
